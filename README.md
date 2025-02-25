@@ -207,7 +207,7 @@ p.note { display: none; }
 <h2><span class="yellow">役場の待合所では虫除けの薬売りのお姉さん</span></h2>
 <a href="20250224_027.JPG" target="_blank"><img src="20250224_027.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">書類は全て紙なので、事務所りは人海戦術</span></h2>
+<h2><span class="yellow">書類は全て紙なので、事務所の一角では人海戦術</span></h2>
 <a href="20250224_028.JPG" target="_blank"><img src="20250224_028.JPG" alt="サンプル画像" width="900" /></a>
     
 <a href="20250224_029.JPG" target="_blank"><img src="20250224_029.JPG" alt="サンプル画像" width="900" /></a>
@@ -226,7 +226,7 @@ p.note { display: none; }
 <a href="20250224_034.JPG" target="_blank"><img src="20250224_034.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250224_035.JPG" target="_blank"><img src="20250224_035.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">仏壇バックに自撮り、緊張感が走りました</span></h2>
+<h2><span class="yellow">仏壇バックに自撮り、ちょっと緊張感が走りました</span></h2>
 <a href="20250224_036.JPG" target="_blank"><img src="20250224_036.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">警察署前の仏壇の背景</span></h2>
