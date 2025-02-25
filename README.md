@@ -269,11 +269,11 @@ p.note { display: none; }
 -->
 
 <br><br>
-<h2><span class="yellow">スティーブ・ジョブズの伝説の講義</span></h2> 
+<h2><span class="yellow">スティーブ・ジョブズの伝説のスピーチ</span></h2> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XsRpvWHIVw0?si=f7IA0pv9iZWVk3VH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    
     
     
-<h2><span class="yellow">スティーブ・ジョブズ氏の講義の内容が「笑って死ぬ」by まいてゃ さんの歌の内容と大筋で同じに聞こえます<br>以下に再掲しますね</span></h2>
+<h2><span class="yellow">スティーブ・ジョブズ氏のスピーチの内容が「笑って死ぬ」by まいてゃ さんの歌の内容と大筋で同じに聞こえます<br>以下に再掲しますね</span></h2>
 
     
 <h3><span class="grey">歌の後半部分しか撮れてませんが、2月16日のイベントで公開された「笑って死ぬ」 by まいてゃ<br>白ドレスはダンサーの玖遠さん、黒いドレスがまいてゃさん</span></h3>
